@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "4k7s/WEB и Сети/Системы и сети/Лабы/Конфигурация и логи.md",
+                    "file": "4k7s/WEB и Сети/Системы и сети/Лабы/Первая/Пошаговое исполнение.md",
                     "mode": "source",
                     "source": false
                   }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4k7s/WEB и Сети/Системы и сети/Лабы/Конфигурация и логи.md",
+                "file": "4k7s/WEB и Сети/Системы и сети/Лабы/Первая/Пошаговое исполнение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4k7s/WEB и Сети/Системы и сети/Лабы/Конфигурация и логи.md",
+                "file": "4k7s/WEB и Сети/Системы и сети/Лабы/Первая/Пошаговое исполнение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4k7s/WEB и Сети/Системы и сети/Лабы/Конфигурация и логи.md"
+                "file": "4k7s/WEB и Сети/Системы и сети/Лабы/Первая/Пошаговое исполнение.md"
               }
             }
           }
@@ -187,11 +187,11 @@
   },
   "active": "745bf34eb708b312",
   "lastOpenFiles": [
+    "4k7s/WEB и Сети/Системы и сети/Лабы/Конфигурация и логи.md",
     "4k7s/WEB и Сети/Системы и сети/Лабы/Первая/Lab_1 - Configuring Basic Router and Switch Settings with IOS CLI.pdf",
     "4k7s/WEB и Сети/Системы и сети/Лабы/Первая/Пошаговое исполнение.md",
     "4k7s/WEB и Сети/Системы и сети/Лабы/Первая/Model.pkt~",
     "Pasted image 20240919202609.png",
-    "4k7s/WEB и Сети/Системы и сети/Лабы/Конфигурация и логи.md",
     "4k7s/WEB и Сети/Системы и сети/Cisco IOS/Основные команды IOS.md",
     "4k7s/WEB и Сети/Системы и сети/Cisco IOS/Настройка виртуального интерфейса.md",
     "4k7s/WEB и Сети/Системы и сети/Cisco IOS/Структура использования IOS.md",
