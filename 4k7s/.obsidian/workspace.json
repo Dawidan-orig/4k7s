@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "2bb56c76a77881b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7aa10c351b7193b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fc3348f151e6fa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Данные и облачные технологии/Хранение/ISS, Интелектуальная система хранения.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6c5e78e04a81aa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Данные и облачные технологии/Защита Кэша.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d01e7a1c41a091f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec4f01f7661ce7d8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3275ebc19fceab39",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6df693d4138a93a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19083b3106254dd0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1a8c06eea1050997",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ca0811291603490",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dd502addd3f639f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "957f8826f57e6fe7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f2bcffdce40b540",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Данные и облачные технологии/Защита Кэша.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "566741979989a1ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Данные и облачные технологии/Защита Кэша.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85550a41e52d3842",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "915a3ceb9cc03e43",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Данные и облачные технологии/Защита Кэша.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d6c5e78e04a81aa5",
+  "lastOpenFiles": [
+    "Данные и облачные технологии/Хранение/ISS, Интелектуальная система хранения.md",
+    "Данные и облачные технологии/Защита Кэша.md",
+    "Данные и облачные технологии/Оценка/Отчёы.md",
+    "Данные и облачные технологии/Оценка/Предупреждения о происшествиях.md",
+    "Данные и облачные технологии/Оценка/Мониторинг.md",
+    "Данные и облачные технологии/ЦОД, Центры обработки данных.md",
+    "Данные и облачные технологии/Оценка",
+    "Данные и облачные технологии/Дата-центр.md",
+    "Данные и облачные технологии/Хранение/Системы хранения.md",
+    "Валидация/Валидация.md",
+    "Валидация/Модели жизненного цикла.md",
+    "WEB и Сети/Протоколы/UDP.md",
+    "WEB и Сети/Протоколы/TCP.md",
+    "WEB и Сети/Протоколы/OSI.md",
+    "WEB и Сети/Сетевой порт.md",
+    "WEB и Сети/Протоколы/Telnet.md",
+    "WEB и Сети/Протоколы/SSH.md",
+    "WEB и Сети/NAT.md",
+    "WEB и Сети/Команды/ttl.md",
+    "WEB и Сети/Протоколы/ASMP.md",
+    "WEB и Сети/Команды",
+    "WEB и Сети/Движение пакета с неизвестным IP.md",
+    "WEB и Сети/DHCP-сервер.md",
+    "WEB и Сети/Таблицы.md",
+    "WEB и Сети/Протоколы/RFC.md",
+    "WEB и Сети/Адреса.md",
+    "Данные и облачные технологии/Хост среди данных.md",
+    "Данные и облачные технологии/Приложение, Software.md",
+    "Валидация",
+    "Безопасность жизнедеятельности",
+    "WEB и Сети/Системы и сети",
+    "WEB и Сети/Системы и сети/Типы сетей",
+    "WEB и Сети/Сети",
+    "Защита информации",
+    "Низкоуровневая архитектура ПО",
+    "WEB и Сети/Протоколы"
+  ]
+}
