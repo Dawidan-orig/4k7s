@@ -4,61 +4,62 @@
     "type": "split",
     "children": [
       {
-        "id": "b09a356f3d9c3fd4",
-        "type": "split",
+        "id": "2f79fc035f3848f3",
+        "type": "tabs",
         "children": [
           {
-            "id": "2f79fc035f3848f3",
-            "type": "tabs",
-            "dimension": 45.01173708920187,
-            "children": [
-              {
-                "id": "745bf34eb708b312",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "4k7s/WEB и Сети/Системы и сети/Лабы/Первая/Пошаговое исполнение.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "ec1ad90397eee72d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "4k7s/WEB и Сети/Системы и сети/Лабы/Конфигурация и логи.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "745bf34eb708b312",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4k7s/WEB и Сети/Системы и сети/Лабы/Вторая/Пошаговое исполнение.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           },
           {
-            "id": "8b10477d96f89cf5",
-            "type": "tabs",
-            "dimension": 54.98826291079813,
-            "children": [
-              {
-                "id": "a176e921d42a391d",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "4k7s/WEB и Сети/Системы и сети/Лабы/Первая/Lab_1 - Configuring Basic Router and Switch Settings with IOS CLI.pdf"
-                  },
-                  "pinned": true
-                }
+            "id": "4fd35d9c6ef3daa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4k7s/WEB и Сети/Системы и сети/Лабы/Конфигурация и логи.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
+          },
+          {
+            "id": "107ba8325c342faa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4k7s/WEB и Сети/Системы и сети/Лабы/Первая/Пошаговое исполнение.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "direction": "vertical"
+        ]
+      },
+      {
+        "id": "c3bf172489bddace",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9309b7a187512b2e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "4k7s/WEB и Сети/Системы и сети/Лабы/Вторая/Lab_2 (6.2.2.5) - Configuring IPv4 Static and Default Routes.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4k7s/WEB и Сети/Системы и сети/Лабы/Первая/Пошаговое исполнение.md",
+                "file": "4k7s/WEB и Сети/Системы и сети/Лабы/Вторая/Пошаговое исполнение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4k7s/WEB и Сети/Системы и сети/Лабы/Первая/Пошаговое исполнение.md",
+                "file": "4k7s/WEB и Сети/Системы и сети/Лабы/Вторая/Пошаговое исполнение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4k7s/WEB и Сети/Системы и сети/Лабы/Первая/Пошаговое исполнение.md"
+                "file": "4k7s/WEB и Сети/Системы и сети/Лабы/Вторая/Пошаговое исполнение.md"
               }
             }
           }
@@ -187,11 +188,19 @@
   },
   "active": "745bf34eb708b312",
   "lastOpenFiles": [
+    "4k7s/WEB и Сети/Системы и сети/Лабы/Вторая/Second.pkt~",
     "4k7s/WEB и Сети/Системы и сети/Лабы/Конфигурация и логи.md",
-    "4k7s/WEB и Сети/Системы и сети/Лабы/Первая/Lab_1 - Configuring Basic Router and Switch Settings with IOS CLI.pdf",
+    "4k7s/WEB и Сети/Системы и сети/Лабы/Вторая/Пошаговое исполнение.md",
+    "4k7s/WEB и Сети/Системы и сети/Лабы/Вторая/Lab_2 (6.2.2.5) - Configuring IPv4 Static and Default Routes.pdf",
     "4k7s/WEB и Сети/Системы и сети/Лабы/Первая/Пошаговое исполнение.md",
+    "4k7s/Скрины/Pasted image 20240919202609.png",
+    "4k7s/Скрины/Pasted image 20240922213001.png",
+    "4k7s/WEB и Сети/Системы и сети/Лабы/Вторая/Second.pkt",
+    "4k7s/WEB и Сети/Системы и сети/Лабы/Вторая/Статическая IP-маршрутизация_Теоретическая часть ЛР_2.pptx",
+    "4k7s/WEB и Сети/Системы и сети/Лабы/Вторая",
+    "4k7s/WEB и Сети/Системы и сети/Лабы/Вторая.md",
+    "4k7s/WEB и Сети/Системы и сети/Лабы/Первая/Lab_1 - Configuring Basic Router and Switch Settings with IOS CLI.pdf",
     "4k7s/WEB и Сети/Системы и сети/Лабы/Первая/Model.pkt~",
-    "Pasted image 20240919202609.png",
     "4k7s/WEB и Сети/Системы и сети/Cisco IOS/Основные команды IOS.md",
     "4k7s/WEB и Сети/Системы и сети/Cisco IOS/Настройка виртуального интерфейса.md",
     "4k7s/WEB и Сети/Системы и сети/Cisco IOS/Структура использования IOS.md",
@@ -200,11 +209,6 @@
     "4k7s/Скрины",
     "4k7s/Скрины/Pasted image 20240919153650.png",
     "4k7s/WEB и Сети/Системы и сети/Лабы/Первая/Теоретическая часть для ЛР1 (2.3.3.4).docx",
-    "4k7s/WEB и Сети/Системы и сети/Cisco IOS",
-    "4k7s/WEB и Сети/Команды CMD/ttl.md",
-    "4k7s/WEB и Сети/Системы WEB",
-    "4k7s/WEB и Сети/Системы и сети/Лабы/Первая/Запись конфигурации в текстовый файл.pptx",
-    "4k7s/WEB и Сети/Системы и сети/Лабы/Первая",
-    "4k7s/WEB и Сети/Системы и сети/Лабы"
+    "4k7s/WEB и Сети/Команды CMD/ttl.md"
   ]
 }
